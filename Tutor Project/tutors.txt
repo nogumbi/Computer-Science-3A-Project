@@ -1,0 +1,4 @@
+Pride//maths//20//5//free
+Kate//physics//10//5//free
+John//maths//2//5//free
+joy//statistics//20//5//occupied
